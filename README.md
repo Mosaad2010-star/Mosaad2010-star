@@ -1,7 +1,6 @@
-# Hey there! 👋 I'm Mosaad Hendam, a Data Analyst | Business Intelligence
+# Hey there! 👋 I'm Mosaad Hendam, a Data Analyst | Business Intelligence | Data Scientist | Msc in Statistics
 
-Welcome to my GitHub profile. As a committed Data Analyst specializing in Business Intelligence, I leverage both my academic background and professional certifications to transform complex datasets into actionable insights. My expertise is in developing data-driven solutions that support and enhance strategic decision-making.
-
+Welcome to my GitHub profile! I am a Data Scientist with over 3 years of experience as a Data Analyst and Data Scientist. I hold a Master’s in Statistics and am skilled in end-to-end data workflows, from collection and cleaning to deploying machine learning and deep learning models. Proficient in Python, PyTorch, and Docker, I leverage my academic background and professional certifications in Business Intelligence to develop data-driven solutions. My passion lies in using advanced algorithms to drive impactful, innovative, and strategic business decisions.
 
 ## 🚀 About Me
 
@@ -47,8 +46,19 @@ Extensive work on business intelligence projects, including data modeling and vi
 🎓 Education:
 
 
-Diploma in Statistics, Mathematics and Computer Science Department                                          2020-2021 
-Faculty of Science, Mansoura University | Bachelor of Mathematics	                                          2006 - 2010
+Master's in Statistics | 2024
+Faculty of Science, port said University
+Research Focus: Forecasting in Various Applications Using Hidden Markov Model /
+
+  http://www.eulc.edu.eg/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=13074160  
+ research paper : Prediction Using Markov Model and Hidden Markov Model for the States of Banknotes
+  https://ajbas.journals.ekb.eg/?_action=article&au=681231&_au=Mosaad+Mohammed+Hendam
+
+Diploma in Statistics, Mathematics, and Computer Science | 2020-2021
+Faculty of Science, Mansoura University
+
+Bachelor of Mathematics | 2006-2010
+Faculty of Science, Mansoura University
 
 🚀 Certifications:
 
@@ -92,8 +102,10 @@ Build an end-to-end data integration pipeline using Power Automate and Logic App
 
 LinkedIn:  https://www.linkedin.com/in/mosaad-hendam/
 
-Email:  mosaadhendam@gmail.com
+Email: mosaadhendam@gmail.com
 
-Twitter:  https://x.com/HendamMosa25996
+Twitter: https://x.com/HendamMosa25996
+
+kaggle :  https://www.kaggle.com/mosaadhendam
 
 
