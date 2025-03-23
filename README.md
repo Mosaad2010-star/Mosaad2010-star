@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mosaad Hendam, a Data Analyst | Business Intelligence | Data Scientist | Msc in Statistics
+# Hey there! 👋 I'm Mosaad Hendam, Data Scientist | Machine Learning | Business Intelligence & Analytics |Master's in Statistics.
 
 Welcome to my GitHub profile! As a Data Scientist, I apply my expertise in machine learning, SQL, Power BI, deep learning, and time series analysis to extract insights and develop scalable solutions. I have optimized data pipelines, built dynamic pricing models, and created recommendation systems to enhance web scraping and price comparison platforms.
 
