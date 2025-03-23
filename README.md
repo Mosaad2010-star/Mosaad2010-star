@@ -1,6 +1,8 @@
 # Hey there! 👋 I'm Mosaad Hendam, a Data Analyst | Business Intelligence | Data Scientist | Msc in Statistics
 
-Welcome to my GitHub profile! I am a Data Scientist with over 3 years of experience as a Data Analyst and Data Scientist. I hold a Master’s in Statistics and am skilled in end-to-end data workflows, from collection and cleaning to deploying machine learning and deep learning models. Proficient in Python, PyTorch, and Docker, I leverage my academic background and professional certifications in Business Intelligence to develop data-driven solutions. My passion lies in using advanced algorithms to drive impactful, innovative, and strategic business decisions.
+Welcome to my GitHub profile! As a Data Scientist, I apply my expertise in machine learning, SQL, Power BI, deep learning, and time series analysis to extract insights and develop scalable solutions. I have optimized data pipelines, built dynamic pricing models, and created recommendation systems to enhance web scraping and price comparison platforms.
+
+I hold a Master’s in Statistics and a Bachelor's in Mathematics from Mansoura University, Egypt. I have also earned certifications in Data Science, Data Analysis, and Business Intelligence from Coursera. My focus is on leveraging data and AI to drive efficiency, improve decision-making, and create impactful solutions.
 
 ## 🚀 About Me
 
